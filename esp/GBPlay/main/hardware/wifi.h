@@ -1,7 +1,9 @@
 #ifndef _WIFI_H
 #define _WIFI_H
 
+#include <stdbool.h>
 #include <stdint.h>
+
 #include <esp_event_base.h>
 
 // Per 802.11 spec
