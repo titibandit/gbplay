@@ -3,6 +3,7 @@ __pycache__/
 docs/.bundle
 docs/_site
 docs/vendor
+esp/GBPlay/sdkconfig
 esp/GBPlay/build/
 esp/GBPlay/build.bat
 esp/GBPlay/build.sh
